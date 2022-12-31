@@ -12,7 +12,7 @@ sudo apt-get install gnupg2 gnupg-agent libpth20 pinentry-curses libccid pcscd s
 Import public key
 
 ```
-curl "https://raw.githubusercontent.com/zerhusbt/dotfiles/master/gpg/ben-public-key.asc" | gpg2 --import
+curl "https://raw.githubusercontent.com/zerhusbt/dotfiles/master/gpg/ben-public-key.asc" | gpg --import
 ```
 
 Add the following to your .gnupg/gpg-agent.conf file:
