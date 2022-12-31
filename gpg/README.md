@@ -122,7 +122,7 @@ gpg --import my-public-key.asc
 Alternatively, upload the public key to github, then run this command (same as above):
 
 ```
-curl "https://raw.githubusercontent.com/zerhusbt/dotfiles/master/gpg/ben-public-key.asc" | gpg2 --import
+curl "https://raw.githubusercontent.com/zerhusbt/dotfiles/master/gpg/ben-public-key.asc" | gpg --import
 ```
 
 # Enabling Touch Support
