@@ -1,5 +1,6 @@
 https://www.jfry.me/articles/2015/gpg-smartcard/ - dead link?
 https://github.com/drduh/YubiKey-Guide#ssh
+https://github.com/drduh/YubiKey-Guide
 
 # Ubuntu setup
 
